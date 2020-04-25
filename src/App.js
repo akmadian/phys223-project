@@ -42,45 +42,83 @@ const App = () => {
           </header>
           <div id="abstract">
             <p>
-              The Doppler Effect refers to the change in frequency of a wave
-              from the point of view of an observer, who is moving relative to
-              the wave source.
+              The Doppler Effect is very interesting in that it involves a 
+              moving object with a constant wavelength, yet we perceive that 
+              the wavelength changes as the object moves away from us. 
             </p>
             <p>
-              This effect can be seen (and heard) every day, and is used for 
-              all kinds of cool things inlcuding robotics, astronomy, radar 
-              technology, medical technology, flow measurement, biology,
-              satellite communication, and audio technology!
+              The most common example of this is a police siren. As the police siren 
+              passes you the pitch of the siren gets deeper, even though the 
+              pitch stays the same. Don’t believe me? If you get involved in a 
+              speed chase, while trying to maintain the same distance to the cop 
+              (try your best, I know it’s hard for first timers), you will 
+              discover that the pitch of the cop’s siren is the same at all times!
             </p>
+            <p>Here's an example of the doppler effect using a car horn!</p>
+          </div>
+          <div id="video">
             <YouTube videoId="a3RfULw7aAY"/>
           </div>
-          <div id="group">
+          <div id="group" style={{marginBottom: "0rem"}}>
             <h2>Group Members and Tasks</h2>
+            <p>We will be using Discord to communicate and delegate tasks.</p>
             <Row>
               <Col span={6} offset={3}>
-                Iyari Angeles
+                Iyari Angeles<br/><hr/>
+                <i>Data and Sources Collection</i><br/><br/>
+                <i>Reflection Questions</i><br/><br/>
+                <i>Reference Checks</i><br/><br/>
+                <i>Updates</i>
               </Col>
               <Col span={6}>
-                Dylan Pool
+                Dylan Pool<br/><hr/>
+                <i>Analysis</i><br/><br/>
+                <i>Reflection Questions</i><br/><br/>
+                <i>Updates</i>
               </Col>
               <Col span={6}>
-                Ari Madian
+                Ari Madian<br/><hr/>
+                <i>Website Design and Development</i><br/><br/>
+                <i>Reflection Questions</i><br/><br/>
+                <i>Data and Sources Collection</i><br/><br/>
+                <i>Updates</i>
               </Col>
             </Row>
           </div>
-          <div>
-            REFERENCES
+          <div id="references">
+            <b>REFERENCES</b>
             <p id="ref-1">
               [<a href="#uref-1">i</a>]&nbsp;
-              <a href="https://en.wikipedia.org/wiki/Doppler_effect">
-                Wikipedia.com "Doppler Effect"
-              </a>
+              Neipp, Cristian & Hernández, A & Rodes-Roca, Jose & Márquez, 
+              Andrés & Beléndez, T & Beléndez, Augusto. (2003). An analysis 
+              of the classical Doppler effect. European Journal of Physics. 
+              24. 497. 10.1088/0143-0807/24/5/306.
             </p>
             <p id="ref-2">
               [<a href="#uref-2">ii</a>]&nbsp;
               <a href="https://www.physicsclassroom.com/class/waves/Lesson-3/The-Doppler-Effect">
-                physicsclassrom.com Vibrationa and Waves - Lesson 3 - Behavior of Waves - The Doppler Effect
+              Henderson, Tom. “Physics Tutorial: The Doppler Effect.” The Physics 
+              Classroom, 2016, www.physicsclassroom.com/class/waves/Lesson-3/The-Doppler-Effect
               </a>
+            </p>
+            <p id="ref-3">
+              [<a href="#uref-2">iii</a>]&nbsp;
+              <a href="web.archive.org/web/20170914003837/www.einstein-online.info/spotlights/doppler">
+              Possel, Markus. “Waves, Motion and Frequency: the Doppler Effect.” Waves, 
+              Motion and Frequency: the Doppler Effect - Einstein Online, 
+              web.archive.org/web/20170914003837/www.einstein-online.info/spotlights/doppler
+              </a>
+            </p>
+            <p id="ref-4">
+              [<a href="#uref-2">iv</a>]&nbsp;
+              <a href="https://www.physicsworld.com/a/doppler-shift-is-seen-in-reverse/">
+              Physics World. “Doppler Shift Is Seen in Reverse.” Physics World, 25 Aug. 
+              2017, physicsworld.com/a/doppler-shift-is-seen-in-reverse/.
+              </a>
+            </p>
+            <p id="ref-5">
+              [<a href="#uref-2">v</a>]&nbsp;
+              Richard L. Kremer, "The Search for Christian Doppler. Alec Eden ," Isis 85, no. 4 (Dec., 1994): 708-709.
             </p>
           </div>
         </Col>

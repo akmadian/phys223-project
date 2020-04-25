@@ -32,7 +32,45 @@ p {
   margin-bottom: 2rem;
 }
 
+#group {
+  text-align: center !important;
+
+  .ant-col {
+    margin-bottom: 0;
+  }
+}
+
 footer {
-  height: 2rem;
-  filter: opacity(.5)
+  height: 6rem;
+  filter: opacity(.5);
+  padding-top: 2rem;
+
+  &:hover {
+    filter: opacity(1);
+    animation: opacityFade .25s ease-out;
+  }
+}
+
+hr {
+  width: 50%;
+  filter: opacity(.2);
+}
+
+#video {
+  margin: 0 auto;
+
+  iframe {
+    width: 120%;
+    transform: translateX(-7.5%);
+    display: block;
+  }
+}
+
+@keyframes opacityFade {
+  from {
+      filter: opacity(.4);
+  }
+  to {
+      filter: opacity(1);
+  }
 }
