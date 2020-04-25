@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77bd4a46452eb6e158f4bac484e45cf8",
+    "revision": "52cc28827de64f8d9396ef39111e2d95",
     "url": "/phys223-project/index.html"
   },
   {
