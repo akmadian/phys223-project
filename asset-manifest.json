@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/phys223-project/static/css/main.43d8a958.chunk.css",
-    "main.js": "/phys223-project/static/js/main.03cfc268.chunk.js",
-    "main.js.map": "/phys223-project/static/js/main.03cfc268.chunk.js.map",
+    "main.css": "/phys223-project/static/css/main.4a8b77d8.chunk.css",
+    "main.js": "/phys223-project/static/js/main.028ccb0b.chunk.js",
+    "main.js.map": "/phys223-project/static/js/main.028ccb0b.chunk.js.map",
     "runtime-main.js": "/phys223-project/static/js/runtime-main.7b645741.js",
     "runtime-main.js.map": "/phys223-project/static/js/runtime-main.7b645741.js.map",
     "static/css/2.a43b59a1.chunk.css": "/phys223-project/static/css/2.a43b59a1.chunk.css",
-    "static/js/2.422bf619.chunk.js": "/phys223-project/static/js/2.422bf619.chunk.js",
-    "static/js/2.422bf619.chunk.js.map": "/phys223-project/static/js/2.422bf619.chunk.js.map",
+    "static/js/2.5f01bc80.chunk.js": "/phys223-project/static/js/2.5f01bc80.chunk.js",
+    "static/js/2.5f01bc80.chunk.js.map": "/phys223-project/static/js/2.5f01bc80.chunk.js.map",
     "index.html": "/phys223-project/index.html",
-    "precache-manifest.636995f8994abb1c14fb2a9d04348fd0.js": "/phys223-project/precache-manifest.636995f8994abb1c14fb2a9d04348fd0.js",
+    "precache-manifest.5f576174afa5344b4459c54cecf28d8a.js": "/phys223-project/precache-manifest.5f576174afa5344b4459c54cecf28d8a.js",
     "service-worker.js": "/phys223-project/service-worker.js",
     "static/css/2.a43b59a1.chunk.css.map": "/phys223-project/static/css/2.a43b59a1.chunk.css.map",
-    "static/css/main.43d8a958.chunk.css.map": "/phys223-project/static/css/main.43d8a958.chunk.css.map",
-    "static/js/2.422bf619.chunk.js.LICENSE.txt": "/phys223-project/static/js/2.422bf619.chunk.js.LICENSE.txt",
+    "static/css/main.4a8b77d8.chunk.css.map": "/phys223-project/static/css/main.4a8b77d8.chunk.css.map",
+    "static/js/2.5f01bc80.chunk.js.LICENSE.txt": "/phys223-project/static/js/2.5f01bc80.chunk.js.LICENSE.txt",
     "static/media/energy_image_1.png": "/phys223-project/static/media/energy_image_1.49ee1e88.png",
     "static/media/energy_image_2.PNG": "/phys223-project/static/media/energy_image_2.2794ed76.PNG",
     "static/media/force_image_1.jpg": "/phys223-project/static/media/force_image_1.d0133576.jpg",
     "static/media/graphical_eqn_1.PNG": "/phys223-project/static/media/graphical_eqn_1.527f5dae.PNG",
     "static/media/pictoral_gif_1.gif": "/phys223-project/static/media/pictoral_gif_1.b9d48194.gif",
-    "static/media/pictoral_gif_2.gif": "/phys223-project/static/media/pictoral_gif_2.3a73103f.gif"
+    "static/media/pictoral_gif_2.gif": "/phys223-project/static/media/pictoral_gif_2.3a73103f.gif",
+    "static/media/pictorial_image_1.PNG": "/phys223-project/static/media/pictorial_image_1.ca3cba75.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.7b645741.js",
     "static/css/2.a43b59a1.chunk.css",
-    "static/js/2.422bf619.chunk.js",
-    "static/css/main.43d8a958.chunk.css",
-    "static/js/main.03cfc268.chunk.js"
+    "static/js/2.5f01bc80.chunk.js",
+    "static/css/main.4a8b77d8.chunk.css",
+    "static/js/main.028ccb0b.chunk.js"
   ]
 }
