@@ -10,18 +10,24 @@ code {
     monospace;
 }
 
+a {
+  &:hover {
+  text-decoration: underline;
+  }
+}
+
 header {
   text-align: center;
   margin-top: 7rem;
-  margin-bottom: 7rem;
-}
-
-div {
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
 }
 
 p {
-  font-size: 1rem;
+  font-size: .9rem;
+}
+
+h3 {
+  font-size: 1.2rem;
 }
 
 #app {
@@ -64,6 +70,43 @@ hr {
     transform: translateX(-7.5%);
     display: block;
   }
+}
+
+#references {
+  font-size: .5;
+}
+
+table {
+  width: 100%;
+
+  tr {
+    border-bottom: 1px solid #e5e5e5;
+  }
+  
+  td {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }  
+}
+
+.cite-text {
+  filter: opacity(.4);
+  font-style: italic;
+  text-decoration: underline dotted;
+
+  &:hover {
+    filter: opacity(1);
+    animation: opacityFade .25s ease-out;
+    text-decoration: underline solid;
+  }
+}
+
+.smaller-text {
+  font-size: .7rem;
+}
+
+.text-align-left {
+  text-align: left;
 }
 
 @keyframes opacityFade {
